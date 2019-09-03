@@ -1,0 +1,7 @@
+happy happy !!!
+git add
+git commit
+git status
+git log
+git reset --hard HEAD^
+git reflog
